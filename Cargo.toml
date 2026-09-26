@@ -13,6 +13,6 @@ name = "_lib"
 crate-type = ["cdylib"]
 
 [dependencies]
-boxcars = "=0.11.5"
+boxcars = { git = "https://github.com/1l1venbb/boxcars", rev = "a5632f133c8c1a37b388bb0161044c16d66d3d4b" }
 serde_json = "1.0.133"
 pyo3 = { version = "0.22.0", features = ["generate-import-lib"] }
