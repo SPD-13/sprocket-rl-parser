@@ -1,6 +1,6 @@
 [package]
 name = "sprocket-rl-parser"
-version = "1.3.0"
+version = "1.3.1"
 edition = "2021"
 description = "Python bindings for the Rocket League replay parser boxcars."
 authors = ["Jake Bailey <asaxplayinghorse@gmail.com>"]
